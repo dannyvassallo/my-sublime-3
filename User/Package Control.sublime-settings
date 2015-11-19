@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Auto Refresh",
+		"Block Cursor Everywhere",
+		"BracketHighlighter",
+		"Clipboard Manager",
+		"CSS Media Query Snippets",
+		"Emmet",
+		"GitGutter",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-ruby",
+		"SyncedSideBar",
+		"Theme - Brogrammer",
+		"TrailingSpaces"
+	]
+}
