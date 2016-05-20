@@ -13,6 +13,8 @@
 		"CSS Media Query Snippets",
 		"Emmet",
 		"GitGutter",
+		"One Dark Color Scheme",
+		"One Dark Material - Theme",
 		"Package Control",
 		"Sass",
 		"SideBarEnhancements",
@@ -21,6 +23,7 @@
 		"SublimeLinter-ruby",
 		"SyncedSideBar",
 		"Theme - Brogrammer",
-		"TrailingSpaces"
+		"TrailingSpaces",
+		"WakaTime"
 	]
 }
